@@ -24,3 +24,12 @@ RGB pixel manipulation
 
 ## What I Learned
 This project helped me practice working with binary image data, reading, and writing files, manipulating RGB values, using arrays, and organizing a Java program across multiple classes.
+## Results
+### Original Image
+![Orignal PPM Image](orignial-image.png)
+
+### Green Filter
+![Green Filter](green-filter.png)
+
+### Invert Filter
+![Invert Filter](invert-filter.png)
