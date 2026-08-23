@@ -28,7 +28,7 @@ This project helped me practice working with binary image data, reading, and wri
 ## Results
 
 ### Original Image
-![Orignal PPM Image](orignal-image.png)
+![Original PPM Image](original-image.png)
 
 ### Green Filter
 ![Green Filter](green-filter.png)
