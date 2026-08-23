@@ -1,4 +1,4 @@
-# ppm-image-processing
+2# ppm-image-processing
 Java image-processing program that reads and writes PPM files and applies colors filters through RGB pixel manipulation.
 
 ## Features 
@@ -28,7 +28,7 @@ This project helped me practice working with binary image data, reading, and wri
 ## Results
 
 ### Original Image
-![Orignal PPM Image](orignial-image.png)
+![Orignal PPM Image](orignal-image.png)
 
 ### Green Filter
 ![Green Filter](green-filter.png)
